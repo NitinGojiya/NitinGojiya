@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **laravel**
 
-- 📝 I regularly write articles on [https://nitingojiya.netlify.app/](https://nitingojiya.netlify.app/)
+- 📝 I regularly write articles on [https://nitingojiya.vercel.app/](https://nitingojiya.vercel.app/)
 
 - 📫 How to reach me **nitingojiya2000@gmail.com**
 
-- 📄 Know about my experiences [https://nitingojiya.netlify.app/](https://nitingojiya.netlify.app/)
+- 📄 Know about my experiences [https://nitingojiya.vercel.app/](https://nitingojiya.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
