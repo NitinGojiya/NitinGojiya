@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitingojiya&label=Profile%20views&color=0e75b6&style=flat" alt="nitingojiya" /> </p>
 
-- 🔭 I’m currently working on **ecommerce**
+- 🔭 I’m currently working on **website and application**
 
-- 🌱 I’m currently learning **laravel**
+- 🌱 I’m currently learning **mobile application**
 
 - 📝 I regularly write articles on [https://nitingojiya.vercel.app/](https://nitingojiya.vercel.app/)
 
